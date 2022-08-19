@@ -93,6 +93,21 @@
           "velocidad": 2.6,
           "grados": 225
         },
+        {
+          "temperatura": {
+            "min": 10,
+            "max": 13
+          },
+          "presion": 996.55,
+          "humedad": 80,
+          "clima": [
+            {
+              "descripcion": "Lluvia Moderada"
+            }
+          ],
+          "velocidad": 3.8,
+          "grados": 270
+        }
       ]
     },
     {
