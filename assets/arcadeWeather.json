@@ -5,8 +5,8 @@
       "dias": [
         {
           "temperatura": {
-            "min": 13.32,
-            "max": 18.27
+            "min": 14,
+            "max": 26
           },
           "presion": 996.68,
           "humedad": 96,
@@ -20,8 +20,8 @@
         },
         {
           "temperatura": {
-            "min": 12.66,
-            "max": 17.34
+            "min": 14,
+            "max": 24
           },
           "presion": 996.12,
           "humedad": 97,
@@ -35,8 +35,8 @@
         },
         {
           "temperatura": {
-            "min": 12.07,
-            "max": 16.48
+            "min": 15,
+            "max": 27
           },
           "presion": 995.7,
           "humedad": 90,
@@ -50,8 +50,8 @@
         },
         {
           "temperatura": {
-            "min": 11.53,
-            "max": 12.34
+            "min": 16,
+            "max": 26
           },
           "presion": 1001.22,
           "humedad": 87,
@@ -65,8 +65,8 @@
         },
         {
           "temperatura": {
-            "min": 14.62,
-            "max": 15.36
+            "min": 16,
+            "max": 26
           },
           "presion": 1001.51,
           "humedad": 88,
@@ -80,34 +80,19 @@
         },
         {
           "temperatura": {
-            "min": -2,
-            "max": -1.1
+            "min": 16,
+            "max": 28
           },
           "presion": 997.54,
           "humedad": 78,
           "clima": [
             {
-              "descripcion": "Nieve Ligera"
+              "descripcion": "Lluvia Moderada"
             }
           ],
           "velocidad": 2.6,
           "grados": 225
         },
-        {
-          "temperatura": {
-            "min": -1.5,
-            "max": -1
-          },
-          "presion": 996.55,
-          "humedad": 80,
-          "clima": [
-            {
-              "descripcion": "Nieve"
-            }
-          ],
-          "velocidad": 3.8,
-          "grados": 270
-        }
       ]
     },
     {
@@ -190,14 +175,14 @@
         },
         {
           "temperatura": {
-            "min": -2,
-            "max": -1.1
+            "min": 10,
+            "max": 15
           },
           "presion": 997.54,
           "humedad": 78,
           "clima": [
             {
-              "descripcion": "Nieve Ligera"
+              "descripcion": "Lluvia Ligera"
             }
           ],
           "velocidad": 2.6,
@@ -205,14 +190,14 @@
         },
         {
           "temperatura": {
-            "min": -1.5,
-            "max": -1
+            "min": 10,
+            "max": 13
           },
           "presion": 996.55,
           "humedad": 80,
           "clima": [
             {
-              "descripcion": "Nieve"
+              "descripcion": "Lluvia Moderada"
             }
           ],
           "velocidad": 3.8,
@@ -220,7 +205,7 @@
         }
       ]
     },
-     {
+    {
       "nombre": "Paris",
       "dias": [
         {
@@ -330,6 +315,5 @@
         }
       ]
     }
-    
   ]
 }
