@@ -1,225 +1,335 @@
 {
-  "ciudades":[
+  "ciudades": [
     {
-    "nombre": "Zapopan",
-    "dias": [
-    {
-      "temperatura": {
-        "min": 13.32,
-        "max": 18.27
-      },
-      "presion": 996.68,
-      "humedad": 96,
-      "clima": [
+      "nombre": "Zapopan",
+      "dias": [
         {
-          "descripcion": "Lluvia Ligera"
+          "temperatura": {
+            "min": 13.32,
+            "max": 18.27
+          },
+          "presion": 996.68,
+          "humedad": 96,
+          "clima": [
+            {
+              "descripcion": "Lluvia Ligera"
+            }
+          ],
+          "velocidad": 1.2,
+          "grados": 0
+        },
+        {
+          "temperatura": {
+            "min": 12.66,
+            "max": 17.34
+          },
+          "presion": 996.12,
+          "humedad": 97,
+          "clima": [
+            {
+              "descripcion": "Lluvia Moderada"
+            }
+          ],
+          "velocidad": 4.8,
+          "grados": 45
+        },
+        {
+          "temperatura": {
+            "min": 12.07,
+            "max": 16.48
+          },
+          "presion": 995.7,
+          "humedad": 90,
+          "clima": [
+            {
+              "descripcion": "Cielo Limpio"
+            }
+          ],
+          "velocidad": 8.2,
+          "grados": 90
+        },
+        {
+          "temperatura": {
+            "min": 11.53,
+            "max": 12.34
+          },
+          "presion": 1001.22,
+          "humedad": 87,
+          "clima": [
+            {
+              "descripcion": "Nubes Dispersas"
+            }
+          ],
+          "velocidad": 3.6,
+          "grados": 135
+        },
+        {
+          "temperatura": {
+            "min": 14.62,
+            "max": 15.36
+          },
+          "presion": 1001.51,
+          "humedad": 88,
+          "clima": [
+            {
+              "descripcion": "Nubes Rotas"
+            }
+          ],
+          "velocidad": 4,
+          "grados": 180
+        },
+        {
+          "temperatura": {
+            "min": -2,
+            "max": -1.1
+          },
+          "presion": 997.54,
+          "humedad": 78,
+          "clima": [
+            {
+              "descripcion": "Nieve Ligera"
+            }
+          ],
+          "velocidad": 2.6,
+          "grados": 225
+        },
+        {
+          "temperatura": {
+            "min": -1.5,
+            "max": -1
+          },
+          "presion": 996.55,
+          "humedad": 80,
+          "clima": [
+            {
+              "descripcion": "Nieve"
+            }
+          ],
+          "velocidad": 3.8,
+          "grados": 270
         }
-      ],
-      "velocidad": 1.2,
-      "grados": 0
+      ]
     },
     {
-      "temperatura": {
-        "min": 12.66,
-        "max": 17.34
-      },
-      "presion": 996.12,
-      "humedad": 97,
-      "clima": [
+      "nombre": "Guadalajara",
+      "dias": [
         {
-          "descripcion": "Lluvia Moderada"
+          "temperatura": {
+            "min": 13.32,
+            "max": 18.27
+          },
+          "presion": 996.68,
+          "humedad": 96,
+          "clima": [
+            {
+              "descripcion": "Lluvia Ligera"
+            }
+          ],
+          "velocidad": 1.2,
+          "grados": 0
+        },
+        {
+          "temperatura": {
+            "min": 12.66,
+            "max": 17.34
+          },
+          "presion": 996.12,
+          "humedad": 97,
+          "clima": [
+            {
+              "descripcion": "Lluvia Moderada"
+            }
+          ],
+          "velocidad": 4.8,
+          "grados": 45
+        },
+        {
+          "temperatura": {
+            "min": 12.07,
+            "max": 16.48
+          },
+          "presion": 995.7,
+          "humedad": 90,
+          "clima": [
+            {
+              "descripcion": "Cielo Limpio"
+            }
+          ],
+          "velocidad": 8.2,
+          "grados": 90
+        },
+        {
+          "temperatura": {
+            "min": 11.53,
+            "max": 12.34
+          },
+          "presion": 1001.22,
+          "humedad": 87,
+          "clima": [
+            {
+              "descripcion": "Nubes Dispersas"
+            }
+          ],
+          "velocidad": 3.6,
+          "grados": 135
+        },
+        {
+          "temperatura": {
+            "min": 14.62,
+            "max": 15.36
+          },
+          "presion": 1001.51,
+          "humedad": 88,
+          "clima": [
+            {
+              "descripcion": "Nubes Rotas"
+            }
+          ],
+          "velocidad": 4,
+          "grados": 180
+        },
+        {
+          "temperatura": {
+            "min": -2,
+            "max": -1.1
+          },
+          "presion": 997.54,
+          "humedad": 78,
+          "clima": [
+            {
+              "descripcion": "Nieve Ligera"
+            }
+          ],
+          "velocidad": 2.6,
+          "grados": 225
+        },
+        {
+          "temperatura": {
+            "min": -1.5,
+            "max": -1
+          },
+          "presion": 996.55,
+          "humedad": 80,
+          "clima": [
+            {
+              "descripcion": "Nieve"
+            }
+          ],
+          "velocidad": 3.8,
+          "grados": 270
         }
-      ],
-      "velocidad": 4.8,
-      "grados": 45
+      ]
     },
-    {
-      "temperatura": {
-        "min": 12.07,
-        "max": 16.48
-      },
-      "presion": 995.7,
-      "humedad": 90,
-      "clima": [
+     {
+      "nombre": "Paris",
+      "dias": [
         {
-          "descripcion": "Cielo Limpio"
-        }
-      ],
-      "velocidad": 8.2,
-      "grados": 90
-    },
-    {
-      "temperatura": {
-        "min": 11.53,
-        "max": 12.34
-      },
-      "presion": 1001.22,
-      "humedad": 87,
-      "clima": [
+          "temperatura": {
+            "min": 20.32,
+            "max": 30.27
+          },
+          "presion": 877.68,
+          "humedad": 96,
+          "clima": [
+            {
+              "descripcion": "Nieve"
+            }
+          ],
+          "velocidad": 2.2,
+          "grados": 10
+        },
         {
-          "descripcion": "Nubes Dispersas"
-        }
-      ],
-      "velocidad": 3.6,
-      "grados": 135
-    },
-    {
-      "temperatura": {
-        "min": 14.62,
-        "max": 15.36
-      },
-      "presion": 1001.51,
-      "humedad": 88,
-      "clima": [
+          "temperatura": {
+            "min": 10.66,
+            "max": 13.34
+          },
+          "presion": 800.12,
+          "humedad": 60,
+          "clima": [
+            {
+              "descripcion": "Nieve Ligera"
+            }
+          ],
+          "velocidad": 2.8,
+          "grados": 45
+        },
         {
-          "descripcion": "Nubes Rotas"
-        }
-      ],
-      "velocidad": 4,
-      "grados": 180
-    },
-    {
-      "temperatura": {
-        "min": -2,
-        "max": -1.1
-      },
-      "presion": 997.54,
-      "humedad": 78,
-      "clima": [
+          "temperatura": {
+            "min": 9.07,
+            "max": 10.48
+          },
+          "presion": 70.7,
+          "humedad": 50,
+          "clima": [
+            {
+              "descripcion": "Cielo Limpio"
+            }
+          ],
+          "velocidad": 4.2,
+          "grados": 40
+        },
         {
-          "descripcion": "Nieve Ligera"
-        }
-      ],
-      "velocidad": 2.6,
-      "grados": 225
-    },
-    {
-      "temperatura": {
-        "min": -1.5,
-        "max": -1
-      },
-      "presion": 996.55,
-      "humedad": 80,
-      "clima": [
+          "temperatura": {
+            "min": 4.53,
+            "max": 10.34
+          },
+          "presion": 1200.22,
+          "humedad": 50,
+          "clima": [
+            {
+              "descripcion": "Nubes Rotas"
+            }
+          ],
+          "velocidad": 4.6,
+          "grados": 80
+        },
         {
-          "descripcion": "Nieve"
+          "temperatura": {
+            "min": 10.62,
+            "max": 19.36
+          },
+          "presion": 500.51,
+          "humedad": 50,
+          "clima": [
+            {
+              "descripcion": "Lluvia Ligera"
+            }
+          ],
+          "velocidad": 2,
+          "grados": 130
+        },
+        {
+          "temperatura": {
+            "min": -2,
+            "max": -1.1
+          },
+          "presion": 789.54,
+          "humedad": 60,
+          "clima": [
+            {
+              "descripcion": "Lluvia Modera"
+            }
+          ],
+          "velocidad": 2.6,
+          "grados": 225
+        },
+        {
+          "temperatura": {
+            "min": -1.5,
+            "max": -1
+          },
+          "presion": 996.55,
+          "humedad": 80,
+          "clima": [
+            {
+              "descripcion": "Lluvia Ligera"
+            }
+          ],
+          "velocidad": 5.8,
+          "grados": 270
         }
-      ],
-      "velocidad": 3.8,
-      "grados": 270
+      ]
     }
+    
   ]
-  },
-  {
-    "nombre": "Guadalajara",
-    "dias": [
-    {
-      "temperatura": {
-        "min": 13.32,
-        "max": 18.27
-      },
-      "presion": 996.68,
-      "humedad": 96,
-      "clima": [
-        {
-          "descripcion": "Lluvia Ligera"
-        }
-      ],
-      "velocidad": 1.2,
-      "grados": 0
-    },
-    {
-      "temperatura": {
-        "min": 12.66,
-        "max": 17.34
-      },
-      "presion": 996.12,
-      "humedad": 97,
-      "clima": [
-        {
-          "descripcion": "Lluvia Moderada"
-        }
-      ],
-      "velocidad": 4.8,
-      "grados": 45
-    },
-    {
-      "temperatura": {
-        "min": 12.07,
-        "max": 16.48
-      },
-      "presion": 995.7,
-      "humedad": 90,
-      "clima": [
-        {
-          "descripcion": "Cielo Limpio"
-        }
-      ],
-      "velocidad": 8.2,
-      "grados": 90
-    },
-    {
-      "temperatura": {
-        "min": 11.53,
-        "max": 12.34
-      },
-      "presion": 1001.22,
-      "humedad": 87,
-      "clima": [
-        {
-          "descripcion": "Nubes Dispersas"
-        }
-      ],
-      "velocidad": 3.6,
-      "grados": 135
-    },
-    {
-      "temperatura": {
-        "min": 14.62,
-        "max": 15.36
-      },
-      "presion": 1001.51,
-      "humedad": 88,
-      "clima": [
-        {
-          "descripcion": "Nubes Rotas"
-        }
-      ],
-      "velocidad": 4,
-      "grados": 180
-    },
-    {
-      "temperatura": {
-        "min": -2,
-        "max": -1.1
-      },
-      "presion": 997.54,
-      "humedad": 78,
-      "clima": [
-        {
-          "descripcion": "Nieve Ligera"
-        }
-      ],
-      "velocidad": 2.6,
-      "grados": 225
-    },
-    {
-      "temperatura": {
-        "min": -1.5,
-        "max": -1
-      },
-      "presion": 996.55,
-      "humedad": 80,
-      "clima": [
-        {
-          "descripcion": "Nieve"
-        }
-      ],
-      "velocidad": 3.8,
-      "grados": 270
-    }
-  ]
-  }
-    ]
-  
 }
